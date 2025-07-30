@@ -1,2 +1,2 @@
 # odin-recipes
-Projeto receitas do projeto Odin.
+# Projeto receitas do projeto Odin.
